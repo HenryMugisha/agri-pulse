@@ -1,0 +1,6 @@
+{
+  "name": "AgriPulse - Farm Management & Record Keeping System",
+  "description": "Comprehensive farm operating platform for tracking livestock health, multi-year crop rotation schedules, and seasonal financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
